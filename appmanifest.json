@@ -1,7 +1,7 @@
 {
-	"name": "Jogo Oine - Otag",
-	"short_name": "Jogo Oine - Otag",
-	"description": "",
+	"name": "Nutrida",
+	"short_name": "Nutrida",
+	"description": "Jogo para auxiliar no ensino de nutrição para crianças e adolecentes.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
